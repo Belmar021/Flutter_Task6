@@ -105,6 +105,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
               Image.asset("assets/Icon.png"),
+              Image.asset("assetsgif/giphyFT.webp"),
             const Text('You have pushed the button this many times:'),
             Text(
               '$_counter',
